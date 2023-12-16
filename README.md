@@ -1,9 +1,12 @@
 ![banner](https://user-images.githubusercontent.com/101881784/186165593-7f234ba2-093d-4754-8062-6afe002e93a4.png)
 
-# Psych-Wiki
-> **Note**: This is not the official wiki of Psych Engine
+# Psych-Wiki 
 
-Welcome to PsychWiki! This is where we dedicate to documenting functions/other that is or not in official wiki with high quality descriptions and researching. This repository was made because the official wiki hasn't been updated for a while, so I decided to make my own wiki cuz why the hell not?
+# Psych-Wiki 2.0
+> **Note**: This is not the official wiki of Psych Engine
+> **Note**: Most of the wiki was made by Meme1079 
+
+Welcome to PsychWiki 2.0 ! This is where we dedicate to documenting functions/other that is or not in official wiki with high quality descriptions and researching. This repository was made because the official wiki hasn't been updated for a while, so I decided to make my own wiki cuz why the hell not?
 
 ### Current Update [14.0.0 Version]
 - Added some additional context on descriptions
